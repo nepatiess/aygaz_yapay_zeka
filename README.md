@@ -1,0 +1,1 @@
+# aygaz_yapay_zeka
