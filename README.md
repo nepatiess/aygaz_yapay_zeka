@@ -58,14 +58,14 @@ pip install numpy pandas matplotlib seaborn scikit-learn tensorflow
 - You can run the project directly from your browser without any installation by clicking the "Open in Colab" button above.
 2. Option 2 : **On a Local Machine**
   - Clone the repository to your computer:
-    ```
-    git clone [https://github.com/nepatiess/aygaz_yapay_zeka.git (https://github.com/nepatiess/aygaz_yapay_zeka.git)
-    ```
+     ```
+      git clone [https://github.com/nepatiess/aygaz_yapay_zeka.git (https://github.com/nepatiess/aygaz_yapay_zeka.git)
+     ```
   - Navigate to the project directory and start Jupyter Notebook:
-  ```
-  cd aygaz_yapay_zeka
-  jupyter notebook yapay_zeka.ipynb
-  ```
+     ```
+     cd aygaz_yapay_zeka
+     jupyter notebook yapay_zeka.ipynb
+     ```
   - Run the cells sequentially and examine the results.
  
 ---
@@ -135,14 +135,14 @@ pip install numpy pandas matplotlib seaborn scikit-learn tensorflow
 - Yukarıdaki "Open in Colab" butonuna tıklayarak projeyi doğrudan tarayıcınız üzerinden hiçbir kurulum yapmadan çalıştırabilirsiniz.
 2. Seçenek 2 : **Yerel Makinede**
   - Repoyu bilgisayarınıza klonlayın:
-    ```
-    git clone [https://github.com/nepatiess/aygaz_yapay_zeka.git (https://github.com/nepatiess/aygaz_yapay_zeka.git)
-    ```
+     ```
+      git clone [https://github.com/nepatiess/aygaz_yapay_zeka.git (https://github.com/nepatiess/aygaz_yapay_zeka.git)
+     ```
   - Proje dizinine gidin ve Jupyter Notebook'u başlatın:
-  ```
-  cd aygaz_yapay_zeka
-  jupyter notebook yapay_zeka.ipynb
-  ```
+     ```
+     cd aygaz_yapay_zeka
+     jupyter notebook yapay_zeka.ipynb
+     ```
   - Hücreleri sırasıyla çalıştırarak sonuçları inceleyin.
  
 ---
