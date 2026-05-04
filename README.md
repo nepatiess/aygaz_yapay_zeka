@@ -6,15 +6,6 @@ This project aims to compare the performance of various classification algorithm
 
 ---
 
-## 📋 Table of Contents
-- [About the Dataset](#about-the-dataset)
-- [Models Used](#models-used)
-- [Project Workflow](#project-workflow)
-- [Requirements](#requirements)
-- [How to Run?](#how-to-run)
-
----
-
 ## 🗂 About the Dataset
 The **CIFAR-10** dataset consists of a total of 60,000 32x32 pixel color images belonging to 10 different classes (airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck). 
 - **Training Set:** 50,000 images
@@ -80,15 +71,6 @@ pip install numpy pandas matplotlib seaborn scikit-learn tensorflow
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nepatiess/aygaz_yapay_zeka/blob/main/yapay_zeka.ipynb)
 
 Bu proje, popüler **CIFAR-10** görüntü veri setini kullanarak çeşitli sınıflandırma algoritmalarının performansını karşılaştırmayı amaçlamaktadır. Proje kapsamında hem geleneksel Makine Öğrenmesi (Machine Learning) yöntemleri hem de Yapay Sinir Ağları (YSA / CNN) kullanılarak modeller eğitilmiş ve sonuçlar Karmaşıklık Matrisleri (Confusion Matrix) ile görselleştirilmiştir.
-
----
-
-## 📋 İçindekiler
-- [Veri Seti Hakkında](#veri-seti-hakkında)
-- [Kullanılan Modeller](#kullanılan-modeller)
-- [Proje İş Akışı](#proje-iş-akışı)
-- [Gereksinimler](#gereksinimler)
-- [Nasıl Çalıştırılır?](#nasıl-çalıştırılır)
 
 ---
 
